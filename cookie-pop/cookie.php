@@ -1,13 +1,9 @@
 <?php
 /**
  * Plugin Name: Cookie Pop
- * Plugin URI: https://code.tutsplus.com/tutorials/implementing-the-eu-cookie-law-into-your-wordpress-site--cms-21750
- * Description: A simple cookie law implementation for WordPress.
+ * Plugin URI:  
+ * Description: A simple cookie implementation for WordPress.
  * Version: 1.0.0
- * Author: Tutsplus
- * Author URI: https://code.tutsplus.com
- * License: GPL-3.0+
- * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  * Domain Path: /lang
  * Text Domain: cookie-pop
  */
