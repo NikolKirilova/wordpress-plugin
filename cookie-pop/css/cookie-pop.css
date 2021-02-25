@@ -1,0 +1,15 @@
+.cookie-pop {
+    background-color: #000;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    left: 0;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+ 
+.cookie-pop button {
+    margin: 10px;
+}
